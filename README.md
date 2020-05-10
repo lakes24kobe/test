@@ -1,3 +1,3 @@
 # test
 test
-dongxiao is a idiot
+idiot
